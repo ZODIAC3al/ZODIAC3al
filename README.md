@@ -1,4 +1,6 @@
+<!--
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ZODIAC3al.ZODIAC3al" />
+-->
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ali+Maher!;" />
@@ -21,7 +23,7 @@
  </div>
  
 <div align="center"> 
-  <a href="https://alimaherr47@gmail.com">
+  <a href="mailto:alimaherr47@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/alimahershahin/" target="_blank">
