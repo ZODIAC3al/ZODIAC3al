@@ -1,5 +1,5 @@
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ZODIAC3al.ZODIAC3al" />
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ZODIAC3al.ZODIAC3al" />-->
 
 
 <h1 align="center">
@@ -29,9 +29,9 @@
   <a href="https://www.linkedin.com/in/alimahershahin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/ZODIAC3al" target="_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-101010"><!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+<!--   <a href="https://github.com/ZODIAC3al" target="_blank">
+<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-101010"> sqlite, safari, google-chrome are other good icon options 
+  </a> -->
    
 </div>
 
