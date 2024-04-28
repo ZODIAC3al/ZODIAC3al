@@ -12,7 +12,7 @@
 
 <div align="center">
  
- 🔭 I’m Studing at faculity of science Alexandria University
+ 🔭 I’m Studing at faculty of science Alexandria University
  
  🌱 I’m currently learning Docker, Supabase, React Native
 
