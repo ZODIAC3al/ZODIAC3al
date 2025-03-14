@@ -119,7 +119,7 @@
   <a href='https://ko-fi.com/zodiac007' target='_blank'>
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
   </a>
-  <a href='https://www.buymeacoffee.com/zodiac007' target='_blank'>
+  <a href='https://buymeacoffee.com/alimaherr4t?new=1' target='_blank'>
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
   
