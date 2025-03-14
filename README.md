@@ -29,10 +29,18 @@
   <a href="https://www.linkedin.com/in/alimahershahin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-<!--   <a href="https://github.com/ZODIAC3al" target="_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-101010"> sqlite, safari, google-chrome are other good icon options 
-  </a> -->
-   
+  <a href="https://www.upwork.com/freelancers/~01db034f0733702a70?mp_source=share" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://khamsat.com/user/ali_maher1345" target="_blank">
+    <img src="https://img.shields.io/badge/Khamsat-FFD700?style=for-the-badge&logo=khamsat&logoColor=black" target="_blank" />
+  </a>
+  <a href="https://alimaher.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=about.me&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://ali1maher.bio.link" target="_blank">
+    <img src="https://img.shields.io/badge/Bio_Link-000000?style=for-the-badge&logo=linktree&logoColor=white" target="_blank" />
+  </a>
 </div>
 
  <hr/>
@@ -41,8 +49,9 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=javascript,java,mysql,csharp,reactnative,dotnet,sqlserver,git,figma" /><br>
-    <img src="https://skillicons.dev/icons?i=contextapi" />
+    <img src="https://skillicons.dev/icons?i=javascript,java,mysql,csharp,dotnet,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=react,reactnative" />
+    
 </div>
 
 <br/>
