@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ali+Maher!;" />
 </h1>
 
-<h3 align="center">I'm a Software || FrontEnd React developer from EGYPT</h3>
+<h3 align="center">I'm a Software FrontEnd React | React Native developer from EGYPT</h3>
 
 <br/>
 
@@ -14,9 +14,9 @@
  
  🔭 I’m Studing at faculty of science Alexandria University
  
- 🌱 I’m currently learning Docker, Supabase, React Native
+ 🌱 I’m currently learning Entity Framework , ASP.Net ,Design Patterns 
 
-💬 Ask me about React, SQL ,Java ... or anything [here](https://github.com/ZODIAC3al/ZODIAC3al/issues)**
+💬 Ask me about React , React Native , SQL ,Java ... or anything [here](https://github.com/ZODIAC3al/ZODIAC3al/issues)**
 
 ⚡ Fun fact Game of Thrones Night's Watch and playing Mobile legend 
 
@@ -46,15 +46,13 @@
 
 <br/>
 <hr/>
-
 <div align="center">
   <h2>✨ My Contributions ✨</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
-
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
