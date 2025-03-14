@@ -18,7 +18,7 @@
 
 💬 Ask me about React , React Native , SQL ,Java ... or anything [here](https://github.com/ZODIAC3al/ZODIAC3al/issues)**
 
-⚡ Fun fact Game of Thrones Night's Watch and playing Mobile legend 
+⚡ Fun fact playing Mobile legend 
 
  </div>
  
@@ -41,7 +41,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,java,mysql,csharp,reactnative,dotnet,sqlserver,git,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=contextapi" />
 </div>
 
 <br/>
