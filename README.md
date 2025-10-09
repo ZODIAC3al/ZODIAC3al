@@ -57,12 +57,10 @@
 
 <div align="center">
   
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ZODIAC3al&show_icons=true&theme=react&border_radius=10&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZODIAC3al&theme=react&border_radius=10&hide_border=true" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=ZODIAC3al&show_icons=true&theme=react&border_radius=10&hide_border=true" />
+
   
-  <br/><br/>
-  
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZODIAC3al&layout=compact&theme=react&border_radius=10&hide_border=true" />
+
   
 </div>
 
