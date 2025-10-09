@@ -1,21 +1,22 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ali+Maher!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=600&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&color=00F5FF&lines=Hey+there!+👋;I'm+Ali+Maher.;Frontend+Developer+💻;React+%26+React+Native+Enthusiast.;Turning+Ideas+into+Interactive+Experiences.✨" />
 </h1>
 
-<h3 align="center">A Passionate Frontend Developer | React & React Native </h3>
+<h3 align="center">A Passionate Frontend Developer | React & React Native</h3>
 
 <br/>
 
 <div align="center">
-  
-  🌍 I'm based in **Egypt**  
-  🎓 Currently studying at **Faculty of Science, Alexandria University**  
-  🌱 Learning **Entity Framework, ASP.NET, and Design Patterns**  
-  💡 Passionate about building **scalable and user-friendly applications**  
-  🎮 Fun fact: I love playing **Mobile Legends** in my free time!  
-  📫 Reach me at **alimaherr47@gmail.com**  
+
+🌍 Based in **Egypt**  
+🎓 Graduated from **Faculty of Science, Alexandria University**  
+🌱 Currently learning **Entity Framework, ASP.NET, and Design Patterns**  
+💡 I love building **scalable, fast, and user-friendly applications**  
+🎮 In my free time, you’ll find me playing **Mobile Legends** or exploring new tech  
+📫 Reach me anytime at **alimaherr47@gmail.com**
 
 </div>
+
 
 <br/>
 
@@ -52,12 +53,27 @@
 <br/>
 
 ---
-
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
-  
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=ZODIAC3al&show_icons=true&theme=react&border_radius=10&hide_border=true" />
+<div align="center" >
+
+  <!-- Main Stats Card -->
+  <img 
+    width="48%" 
+    src="https://github-readme-stats.vercel.app/api?username=ZODIAC3al&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" 
+    alt="Ali Maher's GitHub stats" 
+  />
+
+
+
+  <!-- Top Languages Card -->
+  <img 
+    width="48%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZODIAC3al&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6" 
+    alt="Top Languages" 
+  />
+
+</div>
 
   
 
