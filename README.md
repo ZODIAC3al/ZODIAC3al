@@ -1,162 +1,295 @@
-<p align="center">
-  <a href="#-executive-summary"><b>About</b></a> &nbsp;•&nbsp;
-  <a href="#-technical-ecosystem"><b>Expertise</b></a> &nbsp;•&nbsp;
-  <a href="#-portfolio-showcase"><b>Portfolio</b></a> &nbsp;•&nbsp;
-  <a href="#-developer-dashboard"><b>Analytics</b></a> &nbsp;•&nbsp;
-  <a href="#-connect--collaborate"><b>Contact</b></a>
-</p>
+  <h1 align="center">
+
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=600&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&color=00F5FF&lines=Hey+there!+👋;I'm+Ali+Maher.;Frontend+Developer+💻;React+%26+React+Native+Enthusiast.;Turning+Ideas+into+Interactive+Experiences.✨" />
+
+</h1>
+
+
+
+<h3 align="center">A Passionate Frontend Developer | React & React Native</h3>
+
+
+
+<br/>
+
+
+
+<div align="center">
+
+
+
+🌍 Based in **Egypt**  
+
+🎓 Graduated from **Faculty of Science, Alexandria University**  
+
+🌱 Currently learning **Entity Framework, ASP.NET, and Design Patterns**  
+
+💡 I love building **scalable, fast, and user-friendly applications**  
+
+🎮 In my free time, you’ll find me playing **Mobile Legends** or exploring new tech  
+
+📫 Reach me anytime at **alimaherr47@gmail.com**
+
+
+
+</div>
+
+
+
+
+
+<br/>
+
+
 
 ---
 
+
+
+<h2 align="center">🚀 Skills & Tools</h2>
+
+
+
 <div align="center">
-  <br/>
-  <a href="https://alimaher.netlify.app/" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=700&size=42&center=true&vCenter=true&width=900&height=90&duration=4000&pause=1000&color=00F5FF&lines=Ali+Maher+Shahin;Frontend+Specialist;Full-Stack+Architect;Building+Premium+Digital+Experiences" alt="Hero Title" />
-  </a>
-  <p><b>Transforming complex problems into elegant, scalable enterprise solutions.</b></p>
-  <br/>
+
+  
+
+  ### Frontend Development
+
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+  
+
+  ### Mobile Development
+
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+
+  
+
+  ### Backend & Databases
+
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+
+  
+
+  ### Tools & Platforms
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+
+  
+
 </div>
 
-<h2 id="-executive-summary" align="center">✦ Executive Profile ✦</h2>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="100%" align="center">
-      <br/>
-      <p>I am a Software Engineer based in Alexandria, Egypt, specializing in high-performance <b>Frontend development</b> seamlessly integrated with robust <b>Backend architecture</b>. Currently advancing my expertise as an Open-Source Applications Development Trainee at the Information Technology Institute (ITI), I leverage my Computer Science background (B.Sc., Alexandria University) to engineer scalable, high-end applications.</p>
-      <p>From award-winning AI-driven mobile platforms to real-time 3D creative studios, I focus on delivering clean code, premium user interfaces, and production-ready ecosystems.</p>
-      <br/>
-    </td>
-  </tr>
-</table>
 
 <br/>
 
-<h2 id="-technical-ecosystem" align="center">✦ Technical Ecosystem ✦</h2>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <h3>🖥️ Frontend & Mobile</h3>
-      <hr>
-      <p>
-        <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" /><br/>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=61DAFB" /><br/>
-        <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" /><br/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
-      </p>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <h3>⚙️ Backend & Architecture</h3>
-      <hr>
-      <p>
-        <img src="https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=E0234E" /><br/>
-        <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933" /><br/>
-        <img src="https://img.shields.io/badge/.NET_Core-000000?style=for-the-badge&logo=dotnet&logoColor=512BD4" /><br/>
-        <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F" /><br/>
-        <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
-      </p>
-    </td>
-    <td width="34%" valign="top" align="center">
-      <h3>🗄️ Database & Cloud</h3>
-      <hr>
-      <p>
-        <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=336791" /><br/>
-        <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=4EA94B" /><br/>
-        <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28" /><br/>
-        <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED" /><br/>
-        <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" />
-      </p>
-    </td>
-  </tr>
-</table>
 
-<br/>
+---
 
-<h2 id="-portfolio-showcase" align="center">✦ Portfolio Showcase ✦</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <blockquote>
-        <h3>🏆 Sockit League</h3>
-        <p><b>Award-Winning Enterprise Platform</b><br/>Certified winner of the Computer Science Society Prize for Best Capstone Project. An AI-powered football management application.</p>
-        <p><i>React Native • AI Architecture</i></p>
-      </blockquote>
-    </td>
-    <td width="50%" valign="top">
-      <blockquote>
-        <h3>✨ Lumina 3D Creative Studio</h3>
-        <p><b>Real-Time Spatial Cloud Studio</b><br/>Browser-based platform for creating and sharing 3D galleries. Features real-time collaboration, Recharts analytics, and optimistic UI updates.</p>
-        <p><i>React 19 • Firebase • Tailwind v4</i></p>
-      </blockquote>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <blockquote>
-        <h3>🎓 The CodeFather Platform</h3>
-        <p><b>Full-Stack Hybrid LMS</b><br/>A decoupled, production-ready learning management system with JWT authentication, role-based portals, and Stripe integration.</p>
-        <p><i>Next.js 16 • NestJS • MongoDB</i></p>
-      </blockquote>
-    </td>
-    <td width="50%" valign="top">
-      <blockquote>
-        <h3>🌐 Rossele Platform</h3>
-        <p><b>E-Commerce Solutions</b><br/>Scalable web application architecture focused on seamless user flow, secure transactions, and robust administrative control panels.</p>
-        <p><i>React.js • Node.js</i></p>
-      </blockquote>
-    </td>
-  </tr>
-</table>
+
+
+<div align="center" >
+
+
+
+  <!-- Main Stats Card -->
+
+  <img 
+
+    width="48%" 
+
+    src="https://github-readme-stats.vercel.app/api?username=ZODIAC3al&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" 
+
+    alt="Ali Maher's GitHub stats" 
+
+  />
+
+
+
+
+
+
+
+  <!-- Top Languages Card -->
+
+  <img 
+
+    width="48%" 
+
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZODIAC3al&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6" 
+
+    alt="Top Languages" 
+
+  />
+
+
+
+</div>
+
+
+
+  
+
+
+
+  
+
+</div>
+
+
 
 <br/>
 
-<h2 id="-developer-dashboard" align="center">✦ System Analytics ✦</h2>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=ZODIAC3al&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZODIAC3al&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=00F5FF" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <br/>
-      <img src="https://raw.githubusercontent.com/ZODIAC3al/ZODIAC3al/snake/github-contribution-grid-snake.svg" alt="Contribution Graph" width="100%" />
-    </td>
-  </tr>
-</table>
 
-<br/>
+---
 
-<h2 id="-connect--collaborate" align="center">✦ Connect & Collaborate ✦</h2>
+
+
+<h2 align="center">✨ My Contributions</h2>
+
+
 
 <div align="center">
-  <p>Open to innovative projects, frontend architectural roles, and collaborative opportunities.</p>
+
   
-  <a href="https://alimaher.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit_Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white&border=00F5FF" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/alimahershahin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
-  </a>
+
+  ![Snake Animation](https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake.svg)
+
+  
+
+</div>
+
+
+
+<br/>
+
+
+
+---
+
+
+
+<h2 align="center">📫 Let's Connect!</h2>
+
+
+
+<div align="center">
+
+  
+
   <a href="mailto:alimaherr47@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email" />
-  </a>
-  <a href="https://www.upwork.com/freelancers/~01db034f0733702a70" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-0D1117?style=for-the-badge&logo=upwork&logoColor=6FDA44" alt="Upwork" />
+
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
   </a>
 
-  <br/><br/>
+  <a href="https://www.linkedin.com/in/alimahershahin/" target="_blank">
+
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+  </a>
+
+  <a href="https://www.upwork.com/freelancers/~01db034f0733702a70?mp_source=share" target="_blank">
+
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
+
+  </a>
+
+  <a href="https://khamsat.com/user/ali_maher1345" target="_blank">
+
+    <img src="https://img.shields.io/badge/Khamsat-FFD700?style=for-the-badge&logo=khamsat&logoColor=black" />
+
+  </a>
+
+  <a href="https://alimaher.netlify.app/" target="_blank">
+
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=about.me&logoColor=white" />
+
+  </a>
+
+  <a href="https://ali1maher.bio.link" target="_blank">
+
+    <img src="https://img.shields.io/badge/Bio_Link-000000?style=for-the-badge&logo=linktree&logoColor=white" />
+
+  </a>
+
   
-  <p>
-    <a href='https://ko-fi.com/zodiac007' target='_blank'>
-      <img src="https://img.shields.io/badge/Support_on_Ko--fi-0D1117?style=flat-square&logo=ko-fi&logoColor=F16061" alt="Ko-fi" />
-    </a>
-  </p>
+
 </div>
+
+
+
+<br/>
+
+
+
+---
+
+
+
+<h2 align="center">☕ Support Me</h2>
+
+
+
+<div align="center">
+
+  
+
+  If you find my work interesting, consider supporting me!  
+
+  <a href='https://ko-fi.com/zodiac007' target='_blank'>
+
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
+
+  </a>
+
+  <a href='https://buymeacoffee.com/alimaherr4t?new=1' target='_blank'>
+
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+
+  </a>
+
+  
+
+</div>
+
+
+
+<br/>
+
+
+
+---
+
+
+
+<h3 align="center">Thanks for visiting my profile! 😄</h3>
+
+
+
+---
