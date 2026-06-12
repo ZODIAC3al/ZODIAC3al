@@ -45,3 +45,27 @@ const ALI_Maher = {
     },
     design: ["Figma", "UI/UX Principles", "Responsive Design"]
 };
+🏢 Organizations
+Main Projects	Mobile Apps
+Full-Stack Apps	Learning Projects
+☕ Support My Work
+If you find my projects valuable, you can support my continued development:
+
+Platform	Link
+Ko-fi	ko-fi.com/zodiac007
+Buy Me Coffee	buymeacoffee.com/alimaherr4t
+🏆 Certificates & Achievements
+📜 Key Certifications
+ITI CertificateFreelance CertificateReact Native CertificateFull-Stack Certificate
+
+
+💼 Professional Experience
+MedlyTech — React Native Developer (Nov 2024 - Feb 2025)
+CodSoft — Frontend React Developer (Jun 2024 - Jul 2024)
+Excellence (ITI) — Frontend React Developer (Apr 2024 - Jul 2024)
+ITI (.NET) — .NET Developer Intern (2024)
+📊 GitHub Statistics
+📈 Activity & Contributions
+GitHub TrophyActivity Graph
+Profile Views
+📫 Contact: alimaherr47@gmail.com
