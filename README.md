@@ -69,7 +69,7 @@ If you'd like to support my work, you can do so here:
 <a href="./assets/certificates/ali_maher_docker_certificate.jpeg"><img src="./assets/certificates/ali_maher_docker_certificate.jpeg" height="150" alt="Docker from zero to hero"/></a>
 <a href="./assets/certificates/ali_maher_nestjs_certificate.jpeg"><img src="./assets/certificates/ali_maher_nestjs_certificate.jpeg" height="150" alt="Develop and Deploy Enterprise Back-end Applications"/></a>
 <a href="./assets/certificates/ali_maher_php_certificate.jpeg"><img src="./assets/certificates/ali_maher_php_certificate.jpeg" height="150" alt="Learn PHP Beginner Level"/></a>
-<a href="./assets/certificates/ali_maher_react.jpg"><img src="./assets/certificates/ali_maher_react.jpg" height="150" alt="React.js 19: The Complete Guide"/></a>
+
 </div>
 </details>
 
