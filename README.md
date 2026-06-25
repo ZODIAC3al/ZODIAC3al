@@ -59,155 +59,28 @@ If you'd like to support my work, you can do so here:
 </div>
 
 <details open>
-<summary><a name="certificates"></a><h2>🏆 Certificates & Achievements</h2></summary>
+<summary><a name="certificates"></a><h2>⚜️ Significant Certificates</h2></summary>
 <div align="center">
-<h3>🎓 Diplomas, Internships & Achievements</h3>
-<table>
-<tr>
-<td width="33%" align="center" valign="top">
-<a href="./assets/achivements/iti_traineeship_excellence_internship.jpg">
-<img src="./assets/achivements/iti_traineeship_excellence_internship.jpg" width="100%" alt="ITI Traineeship (Excellence Internship)"/>
-</a>
-<br/>
-<b>🎓 ITI Open-Source Traineeship</b>
-<br/>
-<sub><b>Excellence Internship</b><br/>React Frontend Developer · Apr - Jul 2024</sub>
-</td>
-<td width="33%" align="center" valign="top">
-<a href="./assets/achivements/depi_fullstack_dotnet_certificate.jpg">
-<img src="./assets/achivements/depi_fullstack_dotnet_certificate.jpg" width="100%" alt="DEPI Full stack .Net Web Developer"/>
-</a>
-<br/>
-<b>💻 Digital Egypt Pioneers (DEPI)</b>
-<br/>
-<sub><b>Ministry of Communications & IT</b><br/>Full Stack .NET Developer · Nov 2024 - May 2025</sub>
-</td>
-<td width="33%" align="center" valign="top">
-<a href="./assets/achivements/depi_business_english_certificate.jpg">
-<img src="./assets/achivements/depi_business_english_certificate.jpg" width="100%" alt="DEPI Business English Track"/>
-</a>
-<br/>
-<b>🗣️ Berlitz Business English</b>
-<br/>
-<sub><b>Berlitz Egypt / DEPI</b><br/>Business English (Round 2) · Nov 2024 - May 2025</sub>
-</td>
-</tr>
-<tr>
-<td width="33%" align="center" valign="top">
-<a href="./assets/achivements/codsoft_internship_certificate.jpg">
-<img src="./assets/achivements/codsoft_internship_certificate.jpg" width="100%" alt="CodSoft Web Development Internship"/>
-</a>
-<br/>
-<b>🚀 CodSoft Virtual Internship</b>
-<br/>
-<sub><b>CodSoft</b><br/>Web Development Intern · June 2024</sub>
-</td>
-<td width="33%" align="center" valign="top">
-<a href="./assets/achivements/cognorise_internship_certificate.jpg">
-<img src="./assets/achivements/cognorise_internship_certificate.jpg" width="100%" alt="CognoRise Web Development Internship"/>
-</a>
-<br/>
-<b>📈 CognoRise Technical Internship</b>
-<br/>
-<sub><b>CognoRise Infotech</b><br/>Web Development Intern · Jun - Jul 2024</sub>
-</td>
-<td width="33%" align="center" valign="top">
-<!-- Space Holder -->
-</td>
-</tr>
-</table>
+<a href="./assets/certificates/ali_maher_ai_engineer_certificate.png"><img src="./assets/certificates/ali_maher_ai_engineer_certificate.png" height="150" alt="AI Engineer Core Track"/></a>
+<a href="./assets/certificates/ali_maher_nestjs_certificate1.jpeg"><img src="./assets/certificates/ali_maher_nestjs_certificate1.jpeg" height="150" alt="NestJS Zero to Hero"/></a>
+<a href="./assets/certificates/ali_maher_reactjs_certificate.jpeg"><img src="./assets/certificates/ali_maher_reactjs_certificate.jpeg" height="150" alt="The Ultimate React Course 2025"/></a>
+<a href="./assets/certificates/ali_maher_aws_certificate.jpeg"><img src="./assets/certificates/ali_maher_aws_certificate.jpeg" height="150" alt="Ultimate AWS Certified Cloud Practitioner"/></a>
+<a href="./assets/certificates/ali_maher_cicd_certificate.jpeg"><img src="./assets/certificates/ali_maher_cicd_certificate.jpeg" height="150" alt="Mastering CI/CD with GitHub Actions"/></a>
+<a href="./assets/certificates/ali_maher_docker_certificate.jpeg"><img src="./assets/certificates/ali_maher_docker_certificate.jpeg" height="150" alt="Docker from zero to hero"/></a>
+<a href="./assets/certificates/ali_maher_nestjs_certificate.jpeg"><img src="./assets/certificates/ali_maher_nestjs_certificate.jpeg" height="150" alt="Develop and Deploy Enterprise Back-end Applications"/></a>
+<a href="./assets/certificates/ali_maher_php_certificate.jpeg"><img src="./assets/certificates/ali_maher_php_certificate.jpeg" height="150" alt="Learn PHP Beginner Level"/></a>
+<a href="./assets/certificates/ali_maher_react.jpg"><img src="./assets/certificates/ali_maher_react.jpg" height="150" alt="React.js 19: The Complete Guide"/></a>
+</div>
+</details>
 
-<br/>
-<h3>📜 Professional Certifications</h3>
-<table>
-<tr>
-<td width="33%" align="center" valign="top">
-<a href="./assets/certificates/ali_maher_ai_engineer_certificate.png">
-<img src="./assets/certificates/ali_maher_ai_engineer_certificate.png" width="100%" alt="AI Engineer Core Track"/>
-</a>
-<br/>
-<b>🤖 AI Engineer Core Track</b>
-<br/>
-<sub><b>Ligency & Ed Donner (Udemy)</b><br/>LLM, RAG, Agents · 33.5 hrs · June 2026</sub>
-</td>
-<td width="33%" align="center" valign="top">
-<a href="./assets/certificates/ali_maher_nestjs_certificate1.jpeg">
-<img src="./assets/certificates/ali_maher_nestjs_certificate1.jpeg" width="100%" alt="NestJS Zero to Hero"/>
-</a>
-<br/>
-<b>🦁 NestJS Zero to Hero</b>
-<br/>
-<sub><b>Ariel Weinberger (Udemy)</b><br/>Modern TypeScript Back-end · 9 hrs · June 2026</sub>
-</td>
-<td width="33%" align="center" valign="top">
-<a href="./assets/certificates/ali_maher_reactjs_certificate.jpeg">
-<img src="./assets/certificates/ali_maher_reactjs_certificate.jpeg" width="100%" alt="The Ultimate React Course 2025"/>
-</a>
-<br/>
-<b>⚛️ Ultimate React Course</b>
-<br/>
-<sub><b>Jonas Schmedtmann (Udemy)</b><br/>React, Next.js, Redux · 84 hrs · June 2026</sub>
-</td>
-</tr>
-<tr>
-<td width="33%" align="center" valign="top">
-<a href="./assets/certificates/ali_maher_aws_certificate.jpeg">
-<img src="./assets/certificates/ali_maher_aws_certificate.jpeg" width="100%" alt="Ultimate AWS Certified Cloud Practitioner"/>
-</a>
-<br/>
-<b>☁️ AWS Cloud Practitioner</b>
-<br/>
-<sub><b>Stephane Maarek (Udemy)</b><br/>CLF-C02 Ultimate Prep · 14.5 hrs · June 2026</sub>
-</td>
-<td width="33%" align="center" valign="top">
-<a href="./assets/certificates/ali_maher_cicd_certificate.jpeg">
-<img src="./assets/certificates/ali_maher_cicd_certificate.jpeg" width="100%" alt="Mastering CI/CD with GitHub Actions"/>
-</a>
-<br/>
-<b>🔄 GitHub Actions CI/CD</b>
-<br/>
-<sub><b>Mahmoud Anwar (Udemy)</b><br/>Automate, Test, Deploy · 10.5 hrs · May 2026</sub>
-</td>
-<td width="33%" align="center" valign="top">
-<a href="./assets/certificates/ali_maher_docker_certificate.jpeg">
-<img src="./assets/certificates/ali_maher_docker_certificate.jpeg" width="100%" alt="Docker from zero to hero"/>
-</a>
-<br/>
-<b>🐳 Docker from Zero to Hero</b>
-<br/>
-<sub><b>Ahmed Elfakharany (Udemy)</b><br/>DevOps & Containerization · 5 hrs · May 2026</sub>
-</td>
-</tr>
-<tr>
-<td width="33%" align="center" valign="top">
-<a href="./assets/certificates/ali_maher_nestjs_certificate.jpeg">
-<img src="./assets/certificates/ali_maher_nestjs_certificate.jpeg" width="100%" alt="Develop and Deploy Enterprise Back-end Applications"/>
-</a>
-<br/>
-<b>🏢 Enterprise Back-end Apps</b>
-<br/>
-<sub><b>Ariel Weinberger (Udemy)</b><br/>Best Practices, NestJS & TS · 9 hrs · June 2026</sub>
-</td>
-<td width="33%" align="center" valign="top">
-<a href="./assets/certificates/ali_maher_php_certificate.jpeg">
-<img src="./assets/certificates/ali_maher_php_certificate.jpeg" width="100%" alt="Learn PHP Beginner Level"/>
-</a>
-<br/>
-<b>🐘 PHP Beginner Level</b>
-<br/>
-<sub><b>AbouBakr Mohamed (Udemy)</b><br/>Core PHP Programming · 8 hrs · April 2026</sub>
-</td>
-<td width="33%" align="center" valign="top">
-<a href="./assets/certificates/ali_maher_react.jpg">
-<img src="./assets/certificates/ali_maher_react.jpg" width="100%" alt="React.js 19: The Complete Guide"/>
-</a>
-<br/>
-<b>⚛️ React.js 19 Guide</b>
-<br/>
-<sub><b>Yahya ElAraby (Udemy)</b><br/>React 19 Complete Guide · 19.5 hrs · April 2026</sub>
-</td>
-</tr>
-</table>
+<details open>
+<summary><h2>🏆 Other Achievements</h2></summary>
+<div align="center">
+<a href="./assets/achivements/iti_traineeship_excellence_internship.jpg"><img src="./assets/achivements/iti_traineeship_excellence_internship.jpg" height="150" alt="ITI Open-Source Traineeship"/></a>
+<a href="./assets/achivements/depi_fullstack_dotnet_certificate.jpg"><img src="./assets/achivements/depi_fullstack_dotnet_certificate.jpg" height="150" alt="Digital Egypt Pioneers (DEPI)"/></a>
+<a href="./assets/achivements/depi_business_english_certificate.jpg"><img src="./assets/achivements/depi_business_english_certificate.jpg" height="150" alt="Berlitz Business English"/></a>
+<a href="./assets/achivements/codsoft_internship_certificate.jpg"><img src="./assets/achivements/codsoft_internship_certificate.jpg" height="150" alt="CodSoft Virtual Internship"/></a>
+<a href="./assets/achivements/cognorise_internship_certificate.jpg"><img src="./assets/achivements/cognorise_internship_certificate.jpg" height="150" alt="CognoRise Technical Internship"/></a>
 </div>
 </details>
 
