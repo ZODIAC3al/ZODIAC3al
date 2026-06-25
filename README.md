@@ -50,36 +50,6 @@ const AliMaher = {
 > [!NOTE]
 > I'm actively building **SmartRoadmap**, an AI-powered personalized learning & hiring platform, as the AI integration lead — combining a Next.js/NestJS monorepo with a LangChain.js RAG pipeline over Qdrant Cloud.
 
-## 🏆 Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">🧭 SmartRoadmap</h3>
-<p align="center">AI-powered personalized learning & hiring platform.<br/>Turborepo monorepo · Next.js 14 · NestJS 10 · LangChain.js RAG · Qdrant Cloud</p>
-</td>
-<td width="50%">
-<h3 align="center">🧑‍🏫 The CodeFather</h3>
-<p align="center">Bilingual (AR/EN) NestJS/Next.js e-learning platform with real-time notifications and full RTL/LTR support.</p>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">⚽ Sockit League</h3>
-<p align="center">AI-powered React Native capstone project.<br/>🏅 CS Society Prize for Best Capstone Project Performance</p>
-</td>
-<td width="50%">
-<h3 align="center">🍽️ Meto</h3>
-<p align="center">MERN-stack bilingual restaurant platform with Stripe payments, Redis caching, and PWA support.</p>
-</td>
-</tr>
-</table>
-</div>
-
-> [!TIP]
-> More projects are pinned below and on my [Portfolio](https://alimaher.netlify.app/) — check out my pinned repositories for source code.
-
 ## ☕ Support Me
 If you'd like to support my work, you can do so here:
 
@@ -89,10 +59,162 @@ If you'd like to support my work, you can do so here:
 </div>
 
 <details open>
-<summary><a name="certificates"><a/><h2>🏆 Certificates & Achievements</h2></summary>
+<summary><a name="certificates"></a><h2>🏆 Certificates & Achievements</h2></summary>
     <div align="center">
-        <!-- Add your certificate images to ./assets/certificates/ and reference them below -->
-        <!-- Example: <img src="./assets/certificates/iti-traineeship.png" width=200 alt="ITI Open-Source Applications Traineeship"/> -->
+        <h3>🎓 Diplomas, Internships & Achievements</h3>
+        <table>
+            <tr>
+                <td width="33%" align="center" valign="top">
+                    <a href="./assets/achivements/iti_traineeship_excellence_internship.jpg">
+                        <img src="./assets/achivements/iti_traineeship_excellence_internship.jpg" width="100%" alt="ITI Traineeship (Excellence Internship)"/>
+                    </a>
+                    <br/>
+                    <b>🎓 ITI Open-Source Traineeship</b>
+                    <br/>
+                    <sub><b>Excellence Internship</b><br/>React Frontend Developer · Apr - Jul 2024</sub>
+                </td>
+                <td width="33%" align="center" valign="top">
+                    <a href="./assets/achivements/depi_fullstack_dotnet_certificate.jpg">
+                        <img src="./assets/achivements/depi_fullstack_dotnet_certificate.jpg" width="100%" alt="DEPI Full stack .Net Web Developer"/>
+                    </a>
+                    <br/>
+                    <b>💻 Digital Egypt Pioneers (DEPI)</b>
+                    <br/>
+                    <sub><b>Ministry of Communications & IT</b><br/>Full Stack .NET Developer · Nov 2024 - May 2025</sub>
+                </td>
+                <td width="33%" align="center" valign="top">
+                    <a href="./assets/achivements/depi_business_english_certificate.jpg">
+                        <img src="./assets/achivements/depi_business_english_certificate.jpg" width="100%" alt="DEPI Business English Track"/>
+                    </a>
+                    <br/>
+                    <b>🗣️ Berlitz Business English</b>
+                    <br/>
+                    <sub><b>Berlitz Egypt / DEPI</b><br/>Business English (Round 2) · Nov 2024 - May 2025</sub>
+                </td>
+            </tr>
+            <tr>
+                <td width="33%" align="center" valign="top">
+                    <a href="./assets/achivements/codsoft_internship_certificate.jpg">
+                        <img src="./assets/achivements/codsoft_internship_certificate.jpg" width="100%" alt="CodSoft Web Development Internship"/>
+                    </a>
+                    <br/>
+                    <b>🚀 CodSoft Virtual Internship</b>
+                    <br/>
+                    <sub><b>CodSoft</b><br/>Web Development Intern · June 2024</sub>
+                </td>
+                <td width="33%" align="center" valign="top">
+                    <a href="./assets/achivements/cognorise_internship_certificate.jpg">
+                        <img src="./assets/achivements/cognorise_internship_certificate.jpg" width="100%" alt="CognoRise Web Development Internship"/>
+                    </a>
+                    <br/>
+                    <b>📈 CognoRise Technical Internship</b>
+                    <br/>
+                    <sub><b>CognoRise Infotech</b><br/>Web Development Intern · Jun - Jul 2024</sub>
+                </td>
+                <td width="33%" align="center" valign="top">
+                    <!-- Space Holder -->
+                </td>
+            </tr>
+        </table>
+        
+        <br/>
+        <h3>📜 Professional Certifications</h3>
+        <table>
+            <tr>
+                <td width="33%" align="center" valign="top">
+                    <a href="./assets/certificates/ali_maher_ai_engineer_certificate.png">
+                        <img src="./assets/certificates/ali_maher_ai_engineer_certificate.png" width="100%" alt="AI Engineer Core Track"/>
+                    </a>
+                    <br/>
+                    <b>🤖 AI Engineer Core Track</b>
+                    <br/>
+                    <sub><b>Ligency & Ed Donner (Udemy)</b><br/>LLM, RAG, Agents · 33.5 hrs · June 2026</sub>
+                </td>
+                <td width="33%" align="center" valign="top">
+                    <a href="./assets/certificates/ali_maher_nestjs_certificate1.jpeg">
+                        <img src="./assets/certificates/ali_maher_nestjs_certificate1.jpeg" width="100%" alt="NestJS Zero to Hero"/>
+                    </a>
+                    <br/>
+                    <b>🦁 NestJS Zero to Hero</b>
+                    <br/>
+                    <sub><b>Ariel Weinberger (Udemy)</b><br/>Modern TypeScript Back-end · 9 hrs · June 2026</sub>
+                </td>
+                <td width="33%" align="center" valign="top">
+                    <a href="./assets/certificates/ali_maher_reactjs_certificate.jpeg">
+                        <img src="./assets/certificates/ali_maher_reactjs_certificate.jpeg" width="100%" alt="The Ultimate React Course 2025"/>
+                    </a>
+                    <br/>
+                    <b>⚛️ Ultimate React Course</b>
+                    <br/>
+                    <sub><b>Jonas Schmedtmann (Udemy)</b><br/>React, Next.js, Redux · 84 hrs · June 2026</sub>
+                </td>
+            </tr>
+            <tr>
+                <td width="33%" align="center" valign="top">
+                    <a href="./assets/certificates/ali_maher_aws_certificate.jpeg">
+                        <img src="./assets/certificates/ali_maher_aws_certificate.jpeg" width="100%" alt="Ultimate AWS Certified Cloud Practitioner"/>
+                    </a>
+                    <br/>
+                    <b>☁️ AWS Cloud Practitioner</b>
+                    <br/>
+                    <sub><b>Stephane Maarek (Udemy)</b><br/>CLF-C02 Ultimate Prep · 14.5 hrs · June 2026</sub>
+                </td>
+                <td width="33%" align="center" valign="top">
+                    <a href="./assets/certificates/ali_maher_cicd_certificate.jpeg">
+                        <img src="./assets/certificates/ali_maher_cicd_certificate.jpeg" width="100%" alt="Mastering CI/CD with GitHub Actions"/>
+                    </a>
+                    <br/>
+                    <b>🔄 GitHub Actions CI/CD</b>
+                    <br/>
+                    <sub><b>Mahmoud Anwar (Udemy)</b><br/>Automate, Test, Deploy · 10.5 hrs · May 2026</sub>
+                </td>
+                <td width="33%" align="center" valign="top">
+                    <a href="./assets/certificates/ali_maher_docker_certificate.jpeg">
+                        <img src="./assets/certificates/ali_maher_docker_certificate.jpeg" width="100%" alt="Docker from zero to hero"/>
+                    </a>
+                    <br/>
+                    <b>🐳 Docker from Zero to Hero</b>
+                    <br/>
+                    <sub><b>Ahmed Elfakharany (Udemy)</b><br/>DevOps & Containerization · 5 hrs · May 2026</sub>
+                </td>
+            </tr>
+            <tr>
+                <td width="33%" align="center" valign="top">
+                    <a href="./assets/certificates/ali_maher_nestjs_certificate.jpeg">
+                        <img src="./assets/certificates/ali_maher_nestjs_certificate.jpeg" width="100%" alt="Develop and Deploy Enterprise Back-end Applications"/>
+                    </a>
+                    <br/>
+                    <b>🏢 Enterprise Back-end Apps</b>
+                    <br/>
+                    <sub><b>Ariel Weinberger (Udemy)</b><br/>Best Practices, NestJS & TS · 9 hrs · June 2026</sub>
+                </td>
+                <td width="33%" align="center" valign="top">
+                    <a href="./assets/certificates/ali_maher_php_certificate.jpeg">
+                        <img src="./assets/certificates/ali_maher_php_certificate.jpeg" width="100%" alt="Learn PHP Beginner Level"/>
+                    </a>
+                    <br/>
+                    <b>🐘 PHP Beginner Level</b>
+                    <br/>
+                    <sub><b>AbouBakr Mohamed (Udemy)</b><br/>Core PHP Programming · 8 hrs · April 2026</sub>
+                </td>
+                <td width="33%" align="center" valign="top">
+                    <a href="./assets/certificates/ali_maher_react.jpg">
+                        <img src="./assets/certificates/ali_maher_react.jpg" width="100%" alt="React.js 19: The Complete Guide"/>
+                    </a>
+                    <br/>
+                    <b>⚛️ React.js 19 Guide</b>
+                    <br/>
+                    <sub><b>Yahya ElAraby (Udemy)</b><br/>React 19 Complete Guide · 19.5 hrs · April 2026</sub>
+                </td>
+            </tr>
+        </table>
+    </div>
+</details>
+
+<details open>
+<summary><h2>📈 Contribution Graph</h2></summary>
+    <div align="center">
+        <img src="https://raw.githubusercontent.com/ZODIAC3al/ZODIAC3al/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
     </div>
 </details>
 
