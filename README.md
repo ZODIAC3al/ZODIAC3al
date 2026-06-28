@@ -28,22 +28,166 @@ Currently transitioning into advanced backend development with **NestJS**, **.NE
 
 ```javascript
 const AliMaher = {
+
     location: "Alexandria, Egypt",
-    role: ["Full-Stack Developer", "Software Engineer"],
+
+    role: ["Full-Stack Developer", "Software Engineer", "AI Engineer"],
+
+    
+
     education: "B.Sc. Computer Science, Alexandria University (2025, Excellent)",
+
+
+
     languages: {
+
         proficient: ["TypeScript", "JavaScript"],
-        learning: ["C#"]
+
+        learning: ["C#", "Python", "Java", "SQL", "PHP", "Ruby", "Bash"]
+
     },
+
+
+
     stack: {
-        frontend: ["React", "Next.js", "React Native", "Framer Motion", "TanStack Query", "Zustand"],
-        backend: ["NestJS", "Node.js", ".NET Core", "Entity Framework"],
-        databases: ["PostgreSQL", "MongoDB"],
-        ai: ["LangChain.js", "OpenAI SDK", "RAG Pipelines", "Qdrant Cloud"],
-        devOps: ["Docker", "Redis", "BullMQ", "Socket.io"],
-        currentFocus: ["Design Patterns", "System Architecture", "Agentic AI"]
+
+        frontend: [
+
+            "React",
+
+            "Next.js",
+
+            "React Native",
+
+            "Vue.js",
+
+            "Angular",
+
+            "Framer Motion",
+
+            "TanStack Query",
+
+            "Zustand",
+
+            "Redux",
+
+            "Tailwind CSS",
+
+            "Bootstrap"
+
+        ],
+
+
+
+        backend: [
+
+            "NestJS",
+
+            "Node.js",
+
+            "Express.js",
+
+
+
+            "Django",
+
+            "Laravel",
+
+            "Ruby on Rails"
+
+        ],
+
+
+
+        databases: [
+
+            "PostgreSQL",
+
+            "MongoDB",
+
+            "MySQL",
+
+            "SQLite",
+
+            "Firebase Firestore",
+
+            "Supabase"
+
+        ],
+
+
+
+        ai: [
+
+
+
+            "OpenAI SDK",
+
+            "RAG Pipelines",
+ 
+
+            "Vector Search",
+
+            "Agentic AI"
+
+        ],
+
+
+
+        devOps: [
+
+            "Docker",
+
+            "Redis",
+
+
+
+            "Socket.io",
+
+            "CI/CD",
+
+            "GitHub Actions",
+
+            "Vercel",
+
+            "Netlify"
+
+        ],
+
+
+
+        currentFocus: [
+
+            "Design Patterns",
+
+            "System Architecture",
+
+            "Agentic AI",
+
+            "System Design",
+
+            "Microservices",
+
+            "Scalable Architecture"
+
+        ]
+
     },
-    UI_UX: ["Figma", "DaisyUI", "Tailwind CSS"],
+
+
+
+    UI_UX: [
+
+        "Figma",
+
+        "DaisyUI",
+
+        "Tailwind CSS",
+
+        "Bootstrap"
+
+    ]
+
 };
 ```
 
