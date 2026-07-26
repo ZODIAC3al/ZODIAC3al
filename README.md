@@ -96,12 +96,6 @@ If you'd like to support my work, you can do so here:
 
 <details open>
 <summary><h3>📊 Statistics | </h3> <img height="20px" src="https://visitcount.itsvg.in/api?id=ZODIAC3al&label=Profile%20Views&color=12&icon=5&pretty=true" /></summary>
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=ZODIAC3al&theme=nord&column=5&margin-w=15&margin-h=15&no-bg=true&no-frame=true"
-    alt="Ali Maher's GitHub Trophies"
-  />
-</p>
 <img alt="Ali Maher's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ZODIAC3al&bg_color=RRGGBBAA&title_color=2F81F7&color=2F81F7&line=2F81F7&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZODIAC3al&layout=compact&theme=transparent"/>
